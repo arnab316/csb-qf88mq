@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://arnab316.github.io/csb-qf88mq/static/css/main.66898db1.chunk.css",
+    "main.js": "https://arnab316.github.io/csb-qf88mq/static/js/main.0671edee.chunk.js",
+    "main.js.map": "https://arnab316.github.io/csb-qf88mq/static/js/main.0671edee.chunk.js.map",
+    "runtime-main.js": "https://arnab316.github.io/csb-qf88mq/static/js/runtime-main.29d996d5.js",
+    "runtime-main.js.map": "https://arnab316.github.io/csb-qf88mq/static/js/runtime-main.29d996d5.js.map",
+    "static/css/2.68e31a66.chunk.css": "https://arnab316.github.io/csb-qf88mq/static/css/2.68e31a66.chunk.css",
+    "static/js/2.63a651a9.chunk.js": "https://arnab316.github.io/csb-qf88mq/static/js/2.63a651a9.chunk.js",
+    "static/js/2.63a651a9.chunk.js.map": "https://arnab316.github.io/csb-qf88mq/static/js/2.63a651a9.chunk.js.map",
+    "index.html": "https://arnab316.github.io/csb-qf88mq/index.html",
+    "static/css/2.68e31a66.chunk.css.map": "https://arnab316.github.io/csb-qf88mq/static/css/2.68e31a66.chunk.css.map",
+    "static/css/main.66898db1.chunk.css.map": "https://arnab316.github.io/csb-qf88mq/static/css/main.66898db1.chunk.css.map",
+    "static/js/2.63a651a9.chunk.js.LICENSE.txt": "https://arnab316.github.io/csb-qf88mq/static/js/2.63a651a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29d996d5.js",
+    "static/css/2.68e31a66.chunk.css",
+    "static/js/2.63a651a9.chunk.js",
+    "static/css/main.66898db1.chunk.css",
+    "static/js/main.0671edee.chunk.js"
+  ]
+}
